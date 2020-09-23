@@ -1,5 +1,5 @@
 # C Programs Structure
-*This class is based on [Professor Zoltán's Materia](http://gsd.web.elte.hu/lectures/c-en/c-lecture-2/), his [other material](http://gsd.web.elte.hu/lectures/c-en/c-lecture-5/) and [GeeksForGeeks Tutorials](https://www.geeksforgeeks.org/c-programming-language/)*
+*This class is based on [Professor Zoltán's Materia](http://gsd.web.elte.hu/lectures/c-en/c-lecture-2/), his [other material](http://gsd.web.elte.hu/lectures/c-en/c-lecture-5/), [Geeks for Geeks dataTypes](https://www.geeksforgeeks.org/data-types-in-c/?ref=lbp)
 
 ## Wrap up
 
