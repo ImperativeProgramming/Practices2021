@@ -6,7 +6,7 @@
 During the last lecture we learned:
 - While loop, for, do while
 - Incrementors (++, --)
-- Comparators
+- Comparing variables (==, !=, <=, >=)
 - What we learned doing the Fibonacci series?
 
 
@@ -15,7 +15,7 @@ During the last lecture we learned:
 
 Let's have a short warm up and play,
 
-![1,2,pi](https://media.giphy.com/media/l41YtZOb9EUABnuqA/giphy.gif)
+![1,2, 3, pi](https://media.giphy.com/media/l41YtZOb9EUABnuqA/giphy.gif)
 
 First let's learn a new function...
 
@@ -26,16 +26,27 @@ How to do it in C:
     // module of 3 divided by 2:
     3 % 2
 
-Now that you know how to operate that, make a C program (from scratch) that will count from 1 to 100 and every time the number is a divider of 3 you should replace the number with "pi".
+Now that you know how to operate that, make a C program (from scratch) that will count from 1 to 100 and every time the number is a divider of 4 OR finishes with 4 you should replace the number with "pim".
+
+The software should go from 1 to the number informed by the user (max 1000)
 
 example:
 
     1
     2
-    pi
-    4
+    3
+    pim
     5
-    pi
+    6
+    7
+    pim
+    9
+    10
+    11
+    pim
+    13
+    pim
+
 
 
 
@@ -80,7 +91,10 @@ The names we are going to use now on:
 ![Function structure](https://www.geeksforgeeks.org/wp-content/uploads/Function-Prototype-in-c.png)
 
 ## Task 1
-Recreate the warm up exercise, make a function called "is_pi" that returns either 1 or 0 (zero) for the numbers divisible by 3.
+Recreate the warm up exercise, make a function called "is_pim" that returns either 1 or 0 (zero) for the numbers divisible by 4 or finishing with 4.
+
+## Task 2
+Extend the implementation of Task 1 to respond "pim" to any number that contains 4.
 
 ### Arrays
 Array is a block of sequential data, let's check a first example with an array containing 4 numbers.
@@ -95,7 +109,7 @@ Array is a block of sequential data, let's check a first example with an array c
       printf("&x[%d] = %d\n", j, numbers[j]);
     }
 
-#### Task 2
+#### Task 3
 Make an algorithm that reads 10 numbers and prints them out, later on, prints its average.
 
 ### Strings
@@ -209,5 +223,4 @@ Or
 
     We can add a getchar() after scanf() to read an extra newline.
 
-## Homework
-Finish the list 1 of exercises
+
