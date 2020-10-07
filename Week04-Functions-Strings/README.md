@@ -26,7 +26,7 @@ How to do it in C:
     // module of 3 divided by 2:
     3 % 2
 
-Now that you know how to operate that, make a C program (from scratch) that will count from 1 to 100 and every time the number is a divider of 4 OR finishes with 4 you should replace the number with "pim".
+Now that you know how to operate that, make a C program (from scratch) that will count from 1 to n and every time the number is a divider of 4 OR finishes with 4 you should replace the number with "pim".
 
 The software should go from 1 to the number informed by the user (max 1000)
 
