@@ -156,7 +156,7 @@ Another way of doing it would be:
           return 0;
       }
 
-## Task 2
+## Task 4
 Make a software that reads the user input and outputs an analysis of the word giving information like
 
 - Prints out the word letter by letter
