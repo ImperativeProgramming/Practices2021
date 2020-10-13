@@ -158,5 +158,6 @@ Pointers are nothing but addresses of memory, so when you call a function using 
 
 Let's see the oranges example implemented (check orange_counter.c file)
 
-## Try by your own
+### Try by your own
+
 Implement a function with void return that takes 3 arguments (all ints), num1, num2 and \*sum, where sum is a pointer. The function changes the value of sum to correspont to num1+num2;
