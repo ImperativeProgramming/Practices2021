@@ -1,4 +1,4 @@
-#Pointers
+# Pointers
 
 ![](https://media.giphy.com/media/L3ERvA6jWCd0qO4NdX/giphy.gif)
 
@@ -28,10 +28,10 @@ Some things we need to notice:
 
 - If you clone oranges, now you need space to store 4 bags of oranges instead of 2.
 
-![](https://media.giphy.com/media/kd9BlRovbPOykLBMqX/giphy.gif)
-
 
 **This is what we will be talking about**
+
+!()[https://www.geeksforgeeks.org/wp-content/uploads/How-Pointer-Works-In-C.png]
 
 Pointers are nothing but addresses of memory, so when you call a function using the reference instead of making a clone of the variables. 
 
