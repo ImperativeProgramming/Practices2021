@@ -31,7 +31,7 @@ Some things we need to notice:
 
 **This is what we will be talking about**
 
-!()[https://www.geeksforgeeks.org/wp-content/uploads/How-Pointer-Works-In-C.png]
+![](https://www.geeksforgeeks.org/wp-content/uploads/How-Pointer-Works-In-C.png)
 
 Pointers are nothing but addresses of memory, so when you call a function using the reference instead of making a clone of the variables. 
 
