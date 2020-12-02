@@ -39,7 +39,7 @@ Our classes go from the 7th of September until the 12th of December may change a
 
 
 ## Evaluation calculation
-- During the semester we will have 10 microexams(e.g. quizzes) with 10 points each;
+- During the semester we will have 10 microexams(e.g. quizzes) with 2 points each;
 - There will be 6 assignments for maximum 3 points each. The five best results are taken into consideration. (15 points)
 - At the end of the semester there will be a programming exam for 15 points.
 
